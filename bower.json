@@ -1,0 +1,11 @@
+{
+  "name": "novice-git-intro",
+  "version": "0.1.0",
+  "homepage": "http://software-carpentry.org/v5/novice/git/00-intro.html",
+  "description": "Software Carpentry Novice Lesson Introducing Git",
+  "main": "index.md",
+  "keywords": [
+    "git"
+  ],
+  "license": "CC BY 3.0 Unported"
+}
